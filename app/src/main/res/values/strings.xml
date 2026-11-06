@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Jarvis</string>
+    <string name="system_standby">System standing by…</string>
+    <string name="activate_jarvis">Activate Jarvis</string>
+    <string name="jarvis_online">Jarvis online and listening.</string>
+    <string name="jarvis_active">Jarvis active</string>
+</resources>
